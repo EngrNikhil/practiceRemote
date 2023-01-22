@@ -1,6 +1,6 @@
 public class practice01 {
 
-    int i;
+    static int i;
     public static void main(String[] args) {
 
         System.out.println("Nikhil Jadhav Here ");
