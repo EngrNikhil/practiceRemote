@@ -6,6 +6,8 @@ public class practice01 {
         System.out.println("Nikhil Jadhav Here ");
         System.out.println("Hello ");
         System.out.println(" Integer i default value is :>"+i);
+        i =94;
+        System.out.println("i value updated :>"+i);
 
     }
 }
