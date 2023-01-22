@@ -11,6 +11,7 @@ public class practice01 {
         System.out.println("i value updated :>"+i);
         practice01 pr =new practice01();
         System.out.println("non static string name is :>"+pr.name);
+        System.out.println("Hello this is new branch Nj");
 
     }
 }
