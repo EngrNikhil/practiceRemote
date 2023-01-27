@@ -13,6 +13,7 @@ public class practice01 {
         practice01 pr =new practice01();
         System.out.println("non static string name is :>"+pr.name);
         System.out.println("new nj string value is :>"+pr.Nj);
+        System.out.println("Hey Nikhil Jadhav");
 
 
     }
