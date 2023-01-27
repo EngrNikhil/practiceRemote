@@ -2,6 +2,7 @@ public class practice01 {
 
     static int i;
     String name ="Nikhil";
+    String Nj = "Jadhav";
     public static void main(String[] args) {
         i=23;
         System.out.println("Nikhil Jadhav Here ");
@@ -12,6 +13,8 @@ public class practice01 {
         practice01 pr =new practice01();
         System.out.println("non static string name is :>"+pr.name);
         System.out.println("Hello this is new branch Nj");
+        System.out.println("new nj string value is :>"+pr.Nj);
+        System.out.println("Hey Nikhil Jadhav");
 
     }
 }
