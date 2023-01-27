@@ -11,8 +11,6 @@ public class practice01 {
         driver.get("https://www.google.com/");
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
-        driver.findElement(By.xpath("//input[@type='text']")).sendKeys("Sangita Jadhav");
-        driver.findElement(By.xpath("//body")).sendKeys(Keys.ENTER);
-
+        driver.findElement(By.xpath("//input[@type='text']")).sendKeys("Sangita Jadhav",Keys.ENTER);
     }
 }
